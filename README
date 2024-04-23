@@ -1,4 +1,4 @@
 driver.c need to include the header
-# #include "sset_ls.h"
+#include "sset_ls.h"
 compilation command:
-# gcc driver.c sset_ls.c -o program
+gcc driver.c sset_ls.c -o program
