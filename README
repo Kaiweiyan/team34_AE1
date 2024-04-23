@@ -1,9 +1,9 @@
-## Compilation
+# Compilation
 driver.c need to include the header
-~~~bash
+```
 #include "sset_ls.h"
-~~~
+```
 compilation command:
-~~~bash
+```
 gcc driver.c sset_ls.c -o program
-~~~
+```
